@@ -8,8 +8,6 @@
     * [Instalación de Python](contenido/seccion01/clase4.md)
     * [Escribir y ejecutar programas Python](contenido/seccion01/clase5.md)
     * [Nuestro primer programa en Python](contenido/seccion01/clase6.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion01/test.md)
-    * [Prueba intermedia](contenido/seccion01/prueba.md)
 2. Nuestro primer programa
     * [Introducción a las funciones (P)](contenido/seccion02/clase1.md)
     * [LABORATORIO - Trabajando con la función print()](contenido/seccion02/clase2.md)
@@ -42,8 +40,6 @@
     * [LABORATORIO - Operadores y expresiones](contenido/seccion06/clase5.md)
     * [LABORATORIO - Cálculo de horas](contenido/seccion06/clase6.md)
     * [LABORATORIO - Ejercicios estructura secuencial](contenido/seccion06/clase7.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion06/test.md)
-    * [Prueba intermedia](contenido/seccion06/prueba.md)
 7. Estructura alternativa
     * [Operadores de comparación (P)](contenido/seccion07/clase1.md)
     * [LABORATORIO ‒ Preguntas y Respuestas](contenido/seccion07/clase2.md)
@@ -91,8 +87,6 @@
     * [Ejemplo con listas de dos dimensiones](contenido/seccion12/clase3.md)
     * [Listas multidimensionales](contenido/seccion12/clase4.md)
     * [LABORATORIO - Ejercicios con listas](contenido/seccion12/clase5.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion12/test.md)
-    * [Prueba intermedia](contenido/seccion12/prueba.md)
 13. Introducción a las funciones
     * [Introducción a las funciones (P)](contenido/seccion13/clase1.md)
     * [Tu primera función](contenido/seccion13/clase2.md)
@@ -125,8 +119,5 @@
     * [Excepciones en Python](contenido/seccion16/clase2.md)
     * [Pruebas de ejecución (P)](contenido/seccion16/clase3.md)
     * [Ejemplo de depuración de código](contenido/seccion16/clase4.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion16/test.md)
-    * [Prueba intermedia](contenido/seccion16/prueba.md)
 17. Examen final de curso
     * [Proyecto Final: Juego de tres en raya](contenido/seccion17/proyecto.md)
-    * [Prueba Final](contenido/seccion17/prueba.md)
